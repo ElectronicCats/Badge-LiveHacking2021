@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LiveHacking-rescue)(type Legacy)(uri ${KIPRJMOD}/LiveHacking-rescue.lib)(options "")(descr ""))
+)
