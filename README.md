@@ -1,5 +1,11 @@
 # Badge LiveHacking 2021
 
+## Como Iniciar
+
+1. Conectar Badge via USB a tu computadora.
+2. Abrir el puerto serial indicado para el badge en tucomputadora por medio de algun programa como Arduino IDE, Putty o Screen a 115200 baudios.
+3. En la terminal debera aparecer el texto del badge.
+
 ## Tecnologia
 
 - Raspberry Pico
